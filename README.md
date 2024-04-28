@@ -3,7 +3,7 @@ It is one of the most emerging technologies of today. It has got a lot of scope 
 In this course, you will learn the fundamentals of Artificial Intelligence. You will also learn how you can create one AI Assistant (JARVIS) using Python Programming Language.
 
 
-Features Of Advance AI Assistant (JARVIS )
+Features Of Advance AI Assistant (JARVIS ):
 
 Google Search
 Wikipedia Search
