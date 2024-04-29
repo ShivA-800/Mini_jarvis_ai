@@ -5,13 +5,13 @@ In this course, you will learn the fundamentals of Artificial Intelligence. You 
 
 Features Of Advance AI Assistant (JARVIS ):
 
-Google Search
-Wikipedia Search
-Open Tabs in Chrome
-Takes Screenshots
-Play Songs
-News Updates
-Logout, Shutdown, Restart
-CPU Usage
-Battery Updates
-Jokes
+Google Search,
+Wikipedia Search,
+Open Tabs in Chrome,
+Takes Screenshots,
+Play Songs,
+News Updates,
+Logout, Shutdown, Restart,
+CPU Usage,
+Battery Updates,
+Jokes,
